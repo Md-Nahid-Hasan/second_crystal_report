@@ -26,3 +26,6 @@ E:\New folder\crystalReport\crystalReport\bin\Debug\stdole.dll
 E:\New folder\crystalReport\crystalReport\obj\Debug\crystalReport.exe
 E:\New folder\crystalReport\crystalReport\obj\Debug\crystalReport.pdb
 E:\New folder\crystalReport\crystalReport\obj\Debug\crystalReport.csprojResolveAssemblyReference.cache
+E:\New folder\second_crystal_report\crystalReport\bin\Debug\crystalReport.exe.config
+E:\New folder\second_crystal_report\crystalReport\obj\Debug\crystalReport.exe
+E:\New folder\second_crystal_report\crystalReport\obj\Debug\crystalReport.pdb
